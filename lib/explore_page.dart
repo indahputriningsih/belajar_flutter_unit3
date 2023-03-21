@@ -623,9 +623,6 @@ class ExplorePage extends StatelessWidget {
     );
   }
 }
-<<<<<<< HEAD
 
 
 
-=======
->>>>>>> 902b4e58c3c011dab0e929ab5edeec093cfba5d0
